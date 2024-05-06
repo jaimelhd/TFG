@@ -1,2 +1,3 @@
 # TFG
-Se adjuntarán los códigos de desarrollo de los modelos. También los códigos de gestión de los datos y también se adjuntarán los datos finales empleados.
+Se adjuntarán los códigos de desarrollo de los modelos.
+También las bases de datos sin limpiar y se adjuntarán los datos finales empleados tanto juntos como separados.
