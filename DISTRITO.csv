@@ -1,0 +1,232 @@
+Año,Distrito,Accidentes,Heridos,Muertos
+2012,01. Centro,908.0,817,1
+2012,02. Arganzuela,629.0,626,1
+2012,03. Retiro,619.0,630,3
+2012,04. Salamanca,1.026,876,1
+2012,05. Chamartín,829.0,848,1
+2012,06. Tetuán,576.0,581,2
+2012,07. Chamberí,708.0,693,3
+2012,08. Fuencarral-El Pardo,668.0,695,1
+2012,09. Moncloa-Aravaca,673.0,729,2
+2012,10. Latina,549.0,585,1
+2012,11. Carabanchel,714.0,732,3
+2012,12. Usera,377.0,410,2
+2012,13. Puente de Vallecas,717.0,762,3
+2012,14. Moratalaz,285.0,328,0
+2012,15. Ciudad Lineal,710.0,710,1
+2012,16. Hortaleza,366.0,333,3
+2012,17. Villaverde,293.0,305,1
+2012,18. Villa de Vallecas,237.0,252,2
+2012,19. Vicálvaro,157.0,152,0
+2012,20. San Blas-Canillejas,495.0,553,1
+2012,21. Barajas,158.0,146,1
+2013,01. Centro,921.0,759,3
+2013,02. Arganzuela,632.0,589,1
+2013,03. Retiro,590.0,597,1
+2013,04. Salamanca,968.0,867,5
+2013,05. Chamartín,841.0,799,1
+2013,06. Tetuán,590.0,601,4
+2013,07. Chamberí,714.0,682,2
+2013,08. Fuencarral-El Pardo,679.0,734,3
+2013,09. Moncloa-Aravaca,702.0,722,0
+2013,10. Latina,527.0,567,3
+2013,11. Carabanchel,705.0,720,3
+2013,12. Usera,380.0,476,1
+2013,13. Puente de Vallecas,650.0,695,1
+2013,14. Moratalaz,282.0,324,0
+2013,15. Ciudad Lineal,750.0,804,2
+2013,16. Hortaleza,375.0,402,1
+2013,17. Villaverde,307.0,349,0
+2013,18. Villa de Vallecas,250.0,274,0
+2013,19. Vicálvaro,172.0,161,0
+2013,20. San Blas-Canillejas,518.0,602,2
+2013,21. Barajas,149.0,146,0
+2014,01. Centro,934.0,846,1
+2014,02. Arganzuela,614.0,611,0
+2014,03. Retiro,618.0,703,1
+2014,04. Salamanca,973.0,928,4
+2014,05. Chamartín,835.0,842,2
+2014,06. Tetuán,644.0,684,2
+2014,07. Chamberí,696.0,709,1
+2014,08. Fuencarral-El Pardo,642.0,692,2
+2014,09. Moncloa-Aravaca,674.0,629,0
+2014,10. Latina,581.0,630,1
+2014,11. Carabanchel,715.0,755,2
+2014,12. Usera,409.0,444,0
+2014,13. Puente de Vallecas,704.0,854,1
+2014,14. Moratalaz,291.0,305,1
+2014,15. Ciudad Lineal,756.0,751,3
+2014,16. Hortaleza,410.0,441,0
+2014,17. Villaverde,288.0,368,0
+2014,18. Villa de Vallecas,272.0,285,0
+2014,19. Vicálvaro,159.0,169,1
+2014,20. San Blas-Canillejas,542.0,603,2
+2014,21. Barajas,146.0,147,0
+2015,01. Centro,922.0,892,1
+2015,02. Arganzuela,601.0,634,1
+2015,03. Retiro,600.0,685,1
+2015,04. Salamanca,846.0,875,2
+2015,05. Chamartín,904.0,945,1
+2015,06. Tetuán,626.0,660,2
+2015,07. Chamberí,656.0,672,2
+2015,08. Fuencarral-El Pardo,638.0,685,0
+2015,09. Moncloa-Aravaca,660.0,676,1
+2015,10. Latina,581.0,619,4
+2015,11. Carabanchel,706.0,763,1
+2015,12. Usera,386.0,437,0
+2015,13. Puente de Vallecas,748.0,814,3
+2015,14. Moratalaz,272.0,304,2
+2015,15. Ciudad Lineal,757.0,779,1
+2015,16. Hortaleza,435.0,463,0
+2015,17. Villaverde,298.0,339,1
+2015,18. Villa de Vallecas,255.0,259,0
+2015,19. Vicálvaro,151.0,171,0
+2015,20. San Blas-Canillejas,495.0,540,1
+2015,21. Barajas,185.0,170,0
+2016,01. Centro,924.0,844,2
+2016,02. Arganzuela,609.0,611,1
+2016,03. Retiro,646.0,738,1
+2016,04. Salamanca,949.0,971,3
+2016,05. Chamartín,904.0,907,3
+2016,06. Tetuán,645.0,664,1
+2016,07. Chamberí,645.0,667,3
+2016,08. Fuencarral-El Pardo,691.0,716,6
+2016,09. Moncloa-Aravaca,702.0,689,3
+2016,10. Latina,620.0,630,3
+2016,11. Carabanchel,724.0,759,1
+2016,12. Usera,409.0,416,0
+2016,13. Puente de Vallecas,804.0,860,3
+2016,14. Moratalaz,305.0,341,0
+2016,15. Ciudad Lineal,784.0,822,2
+2016,16. Hortaleza,470.0,453,1
+2016,17. Villaverde,336.0,349,1
+2016,18. Villa de Vallecas,295.0,316,0
+2016,19. Vicálvaro,161.0,169,0
+2016,20. San Blas-Canillejas,501.0,566,1
+2016,21. Barajas,213.0,205,0
+2017,01. Centro,958.0,878,1
+2017,02. Arganzuela,635.0,681,2
+2017,03. Retiro,673.0,725,0
+2017,04. Salamanca,906.0,887,0
+2017,05. Chamartín,838.0,873,2
+2017,06. Tetuán,674.0,726,0
+2017,07. Chamberí,745.0,745,2
+2017,08. Fuencarral-El Pardo,653.0,666,2
+2017,09. Moncloa-Aravaca,605.0,643,0
+2017,10. Latina,586.0,618,1
+2017,11. Carabanchel,771.0,820,1
+2017,12. Usera,391.0,413,4
+2017,13. Puente de Vallecas,744.0,804,2
+2017,14. Moratalaz,342.0,369,2
+2017,15. Ciudad Lineal,787.0,854,0
+2017,16. Hortaleza,480.0,484,1
+2017,17. Villaverde,315.0,385,1
+2017,18. Villa de Vallecas,307.0,364,0
+2017,19. Vicálvaro,234.0,244,1
+2017,20. San Blas-Canillejas,586.0,659,2
+2017,21. Barajas,244.0,231,3
+2018,01. Centro,1.048,871,0
+2018,02. Arganzuela,740.0,626,3
+2018,03. Retiro,696.0,660,1
+2018,04. Salamanca,1.136,982,3
+2018,05. Chamartín,1.171,939,3
+2018,06. Tetuán,838.0,786,1
+2018,07. Chamberí,942.0,762,3
+2018,08. Fuencarral-El Pardo,878.0,675,1
+2018,09. Moncloa-Aravaca,880.0,729,0
+2018,10. Latina,648.0,616,4
+2018,11. Carabanchel,770.0,732,1
+2018,12. Usera,565.0,501,1
+2018,13. Puente de Vallecas,981.0,768,2
+2018,14. Moratalaz,407.0,367,3
+2018,15. Ciudad Lineal,968.0,790,0
+2018,16. Hortaleza,614.0,475,2
+2018,17. Villaverde,364.0,381,1
+2018,18. Villa de Vallecas,390.0,306,0
+2018,19. Vicálvaro,228.0,216,3
+2018,20. San Blas-Canillejas,813.0,724,2
+2018,21. Barajas,372.0,293,2
+2019,01. Centro,1.31,842,0
+2019,02. Arganzuela,940.0,626,1
+2019,03. Retiro,1.083,806,1
+2019,04. Salamanca,1.728,1121,2
+2019,05. Chamartín,1.599,924,2
+2019,06. Tetuán,1.042,643,3
+2019,07. Chamberí,1.2,759,1
+2019,08. Fuencarral-El Pardo,1.11,659,3
+2019,09. Moncloa-Aravaca,1.2,658,3
+2019,10. Latina,1.069,667,6
+2019,11. Carabanchel,1.352,857,1
+2019,12. Usera,744.0,456,0
+2019,13. Puente de Vallecas,1.617,886,1
+2019,14. Moratalaz,628.0,359,2
+2019,15. Ciudad Lineal,1.35,792,0
+2019,16. Hortaleza,913.0,480,3
+2019,17. Villaverde,586.0,381,0
+2019,18. Villa de Vallecas,559.0,338,0
+2019,19. Vicálvaro,306.0,170,2
+2019,20. San Blas-Canillejas,1.115,733,0
+2019,21. Barajas,479.0,226,2
+2020,01. Centro,731.0,441,0
+2020,02. Arganzuela,595.0,393,2
+2020,03. Retiro,647.0,446,4
+2020,04. Salamanca,1.099,649,0
+2020,05. Chamartín,907.0,536,2
+2020,06. Tetuán,710.0,410,4
+2020,07. Chamberí,708.0,432,5
+2020,08. Fuencarral-El Pardo,801.0,453,0
+2020,09. Moncloa-Aravaca,847.0,465,5
+2020,10. Latina,634.0,376,1
+2020,11. Carabanchel,841.0,519,1
+2020,12. Usera,517.0,257,1
+2020,13. Puente de Vallecas,1.065,522,2
+2020,14. Moratalaz,413.0,245,0
+2020,15. Ciudad Lineal,870.0,471,0
+2020,16. Hortaleza,695.0,398,4
+2020,17. Villaverde,418.0,257,1
+2021,18. Villa de Vallecas,422.0,270,1
+2020,19. Vicálvaro,248.0,125,0
+2020,20. San Blas-Canillejas,741.0,436,0
+2020,21. Barajas,261.0,119,1
+2021,01. Centro,1.059,683,0
+2021,02. Arganzuela,844.0,487,5
+2021,03. Retiro,874.0,535,1
+2021,04. Salamanca,1.336,746,0
+2021,05. Chamartín,1.184,664,1
+2021,06. Tetuán,779.0,414,0
+2021,07. Chamberí,941.0,577,1
+2021,08. Fuencarral-El Pardo,942.0,525,0
+2021,09. Moncloa-Aravaca,1.031,587,1
+2021,10. Latina,899.0,487,3
+2021,11. Carabanchel,1.089,680,1
+2021,12. Usera,741.0,448,1
+2021,13. Puente de Vallecas,1.324,689,2
+2021,14. Moratalaz,495.0,276,2
+2021,15. Ciudad Lineal,1.139,617,1
+2021,16. Hortaleza,726.0,363,0
+2021,17. Villaverde,576.0,307,0
+2021,18. Villa de Vallecas,467.0,271,2
+2021,19. Vicálvaro,354.0,181,1
+2021,20. San Blas-Canillejas,839.0,491,0
+2021,21. Barajas,316.0,131,2
+2022,01. Centro,1.201,905,0
+2022,02. Arganzuela,905.0,731,1
+2022,03. Retiro,930.0,492,0
+2022,04. Salamanca,1.508,583,1
+2022,05. Chamartín,1.422,866,1
+2022,06. Tetuán,897.0,804,1
+2022,07. Chamberí,1.037,531,0
+2022,08. Fuencarral-El Pardo,1.105,636,2
+2022,09. Moncloa-Aravaca,1.147,628,2
+2022,10. Latina,986.0,656,3
+2022,11. Carabanchel,1.226,572,0
+2022,12. Usera,827.0,677,1
+2022,13. Puente de Vallecas,1.466,407,0
+2022,14. Moratalaz,538.0,740,1
+2022,15. Ciudad Lineal,1.292,308,2
+2022,16. Hortaleza,802.0,740,1
+2022,17. Villaverde,643.0,400,3
+2022,18. Villa de Vallecas,550.0,336,0
+2022,19. Vicálvaro,330.0,346,0
+2022,20. San Blas-Canillejas,1.025,202,0
+2022,21. Barajas,384.0,604,0
